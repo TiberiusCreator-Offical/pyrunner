@@ -166,7 +166,7 @@ Do whatever you want with it. Attribution appreciated but not required.
 
 ## Credits
 
-- **Designed and built by:** [TiberiusGBT Apex V1.5]([(https://microstudio.dev/i/Tiberius2/tiberiusgbtpublic/)]) — created by me
+- **Designed and built by:** [TiberiusGBT Apex V1.5](https://microstudio.dev/i/Tiberius2/tiberiusgbtpublic/) — created by me
 - **Python runtime:** [Pyodide](https://pyodide.org/) team
 
 Built in a single AI coding session using **GBT Apex V1.5**.
