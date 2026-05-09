@@ -15,7 +15,7 @@ Other online Python IDEs lock you into subscriptions, cloud accounts, and 1300 l
 - **No signup.** No tracking. No "your trial expires in 7 days."
 - **Real Python.** Powered by [Pyodide](https://pyodide.org/) — full CPython compiled to WebAssembly.
 - **Works offline.** Once loaded, it runs forever without internet.
-- **Free forever.** MIT licensed.
+- **Free forever.** DO WHATEVER YOU WANT!
 
 ---
 
